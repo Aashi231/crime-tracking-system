@@ -1,0 +1,5 @@
+"caseid","title","status","suspectcount","evidencecount"
+1,"Bank Robbery","Open","2","2"
+2,"Cyber Fraud","Closed","2","2"
+3,"Bank Robbery","Open","0","0"
+4,"Cyber Fraud","Closed","0","0"
